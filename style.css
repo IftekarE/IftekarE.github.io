@@ -1,0 +1,13 @@
+hr1{
+    color: rgb(187, 168, 94);
+    font-size: 35px;
+    position: absolute;
+    text-align: center;
+    margin-left: -163.79px;
+    margin-top: 75px;
+    margin-bottom: 75px;
+    left: 50%;
+}
+body{
+    background-color: rgb(29, 29, 29);
+}
