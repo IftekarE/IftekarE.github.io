@@ -4,18 +4,39 @@ hr1{
     position: absolute;
     text-align: center;
     margin-left: -163.79px;
+    left: 50%;
     margin-top: 75px;
     margin-bottom: 75px;
-    left: 50%;
-}
+    }
 body{
     background-color: rgb(29, 29, 29);
-}
+    }
 p{
     color: rgb(215 , 215, 215);
-}
+    }
 img{
-position: absolute;
-left: 50%;
-margin-left: 250px;
-margin-top: 250px;}
+    position: absolute;
+    left: 50%;
+    margin-left: 175px;
+    margin-top: 195px;
+    }
+div{
+    width: 175px;
+    height: 936.57px;
+    margin-top: -15.6px;
+    color:rgb(215,215,215);
+    }
+div#d1{
+    background-color: rgb(215, 215, 215);
+    border: 0px 0px 0px 0px;
+    position:absolute;
+    right: 50%;
+    margin-right: 785px;
+    }
+div#d2{
+    background-color: rgb(215, 215, 215);
+    border: 0px 0px 0px 0px;
+    position:absolute;
+    left: 50%;
+    margin-left: 785px;
+    }
