@@ -1,5 +1,5 @@
 hr1{
-    color: rgb(187, 168, 94);
+    color: rgb(231, 212, 138);
     font-size: 35px;
     position: absolute;
     text-align: center;
@@ -11,3 +11,11 @@ hr1{
 body{
     background-color: rgb(29, 29, 29);
 }
+p{
+    color: rgb(215 , 215, 215);
+}
+img{
+position: absolute;
+left: 50%;
+margin-left: 250px;
+margin-top: 250px;}
