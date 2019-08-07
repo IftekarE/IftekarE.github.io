@@ -1,5 +1,6 @@
 hr1{
-    color: rgb(231, 212, 138);
+    color:rgb(230, 208, 123);
+    background-color:rgb(26, 25, 25);
     font-size: 35px;
     position: absolute;
     text-align: center;
@@ -9,16 +10,18 @@ hr1{
     margin-bottom: 75px;
     }
 body{
-    background-color: rgb(29, 29, 29);
+    background-color:rgb(26, 25, 25);
     }
 p{
     color: rgb(215 , 215, 215);
+    background-color:rgb(26, 25, 25);
     }
 img{
     position: absolute;
     left: 50%;
     margin-left: 175px;
     margin-top: 195px;
+    background-color:rgb(26, 25, 25);
     }
 div{
     width: 175px;
