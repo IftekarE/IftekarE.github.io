@@ -1,43 +1,29 @@
-hr1{
-    color:rgb(240, 227, 175);
-    font-size: 35px;
-    position: absolute;
-    text-align: center;
-    margin-left: -163.79px;
-    left: 50%;
-    margin-top: 75px;
-    margin-bottom: 75px;
-    font-family: 'Times New Roman', Times, serif;
-    }
 body{
     background-color:rgb(12, 12, 12);
     }
+hr1{
+    color:rgb(240, 227, 175);
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    left: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25.6px; 
+    }
 p{
     color: rgb(215 , 215, 215);
-    }
-img{
+    font-size: 25px;
+    margin-left: 1020.2px;
+}
+.Quad1 {
     position: absolute;
-    left: 50%;
-    margin-left: 175px;
-    margin-top: 195px;
-    }
-div{
-    width: 175px;
-    height: 936.57px;
-    margin-top: -15.6px;
-    
-    }
-div#d1{
-    background-color: rgba(233, 227, 227, 0.74);
-    border: 0px 0px 0px 0px;
-    position:absolute;
-    right: 50%;
-    margin-right: 785px;
-    }
-div#d2{
-    background-color: rgba(233, 227, 227, 0.74);
-    border: 0px 0px 0px 0px;
-    position:absolute;
-    left: 50%;
-    margin-left: 785px;
-    }
+    left: 0%;
+    margin-left: 25.6px;
+    margin-top: 35px;
+        }
+.Quad2{
+    position: absolute;
+    left: 0%;
+    margin-left: 535.2px;
+    margin-top: 35px;
+      }   
