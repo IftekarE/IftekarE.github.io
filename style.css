@@ -1,3 +1,11 @@
+body{
+    background-color:rgb(12, 12, 12);
+    }
+div{
+    width: 475px;
+    height: 363px;
+    }
+
 hr1{
     color:rgb(240, 227, 175);
     font-size: 30px;
@@ -12,9 +20,7 @@ p.par1{
     font-size: 25px;
     margin-left: 1045.8px;
     padding-top: 34px;
-    }
-body{
-    background-color:rgb(12, 12, 12);
+    font-family: 'Times New Roman', Times, serif;
     }
 .Quad1 {
     position: absolute;
@@ -28,11 +34,14 @@ body{
     margin-left: 535.2px;
     margin-top: 35px;
     }   
-ul{
+ul.list1{
     color: rgb(215 , 215, 215);
-    font-size: 25px;
+    font-size: 23px;
     margin-left: 1045.8px;
+    margin-top: -10.4px;
+    font-family: 'Times New Roman', Times, serif;
     }
+
 hr2{
     color:rgb(240, 227, 175);
     font-size: 30px;
@@ -55,10 +64,6 @@ hr2{
     margin-left: 535.2px;
     margin-top: 154.2px;
     } 
-div{
-    width: 475px;
-    height: 363px;
-    }
 div#d1{
     background-color:rgb(12, 12, 12);
     margin-left: 1045.8px;
@@ -66,4 +71,53 @@ div#d1{
     color: rgb(215 , 215, 215);
     margin-top: 180px;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    }
+
+hr3{
+    color:rgb(240, 227, 175);
+    font-size: 30px;
+    position: absolute;
+    text-align: center;
+    left: 0%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 25.6px; 
+    margin-top: 31.2px;
+    }
+.shoot1{
+    position: absolute;
+    left: 0%;
+    margin-left: 25.6px;
+    margin-top: 64.2px;
+    }
+.shoot2{
+    position: absolute;
+    left: 0%;
+    margin-left: 535.2px;
+    margin-top: 64.2px;
+    }  
+p.par2{
+    color: rgb(215 , 215, 215);
+    font-size: 25px;
+    margin-left: 1045.8px;
+    padding-top: 40px;
+    margin-right: 361.2px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    }
+p.par3{
+    color: rgb(215 , 215, 215);
+    font-size: 25px;
+    margin-left: 1045.8px;
+    padding-top: 0px;
+    margin-right:0px;
+    text-align: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+ul.list2{
+    color: rgb(215 , 215, 215);
+    font-size: 23px;
+    margin-left: 1045.8px;
+    margin-top: -10.4px;
+    font-family: 'Times New Roman', Times, serif;
     }
