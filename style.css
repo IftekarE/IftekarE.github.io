@@ -104,16 +104,12 @@ hr3{
 p.par2{
     color: rgb(215 , 215, 215);
     font-size: 25px;
-    margin-left: 1045.8px;
     padding-top: 40px;
-    margin-right: 361.2px;
-    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     }
 p.par3{
     color: rgb(215 , 215, 215);
     font-size: 25px;
-    margin-left: 1045.8px;
     padding-top: 0px;
     margin-right:0px;
     text-align: 0px;
@@ -122,7 +118,14 @@ p.par3{
 ul.list2{
     color: rgb(215 , 215, 215);
     font-size: 23px;
-    margin-left: 1045.8px;
     margin-top: -10.4px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+div#d3{
+    background-color:rgb(12, 12, 12);
+    margin-left: 1045.8px;
+    font-size: 25px;
+    color: rgb(215 , 215, 215);
+    margin-top: 0px;
     font-family: 'Times New Roman', Times, serif;
     }
