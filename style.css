@@ -18,8 +18,7 @@ hr1{
 p.par1{
     color: rgb(215 , 215, 215);
     font-size: 25px;
-    margin-left: 1045.8px;
-    padding-top: 34px;
+    padding-top: 40px;
     font-family: 'Times New Roman', Times, serif;
     }
 .Quad1 {
@@ -37,8 +36,14 @@ p.par1{
 ul.list1{
     color: rgb(215 , 215, 215);
     font-size: 23px;
-    margin-left: 1045.8px;
     margin-top: -10.4px;
+    font-family: 'Times New Roman', Times, serif;
+    }
+div#d1{
+    background-color:rgb(12, 12, 12);
+    margin-left: 1045.8px;
+    font-size: 25px;
+    color: rgb(215 , 215, 215);
     font-family: 'Times New Roman', Times, serif;
     }
 
@@ -50,26 +55,26 @@ hr2{
     left: 0%;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25.6px; 
-    margin-top: 145.6px;
+    margin-top: 65.6px;
     }
 .cal1 {
     position: absolute;
     left: 0%;
     margin-left: 25.6px;
-    margin-top: 179.2px;
+    margin-top: 99.2px;
     }
 .cal2{
     position: absolute;
     left: 0%;
     margin-left: 535.2px;
-    margin-top: 179.2px;
+    margin-top: 99.2px;
     } 
-div#d1{
+div#d2{
     background-color:rgb(12, 12, 12);
     margin-left: 1045.8px;
     font-size: 25px;
     color: rgb(215 , 215, 215);
-    margin-top: 205px;
+    margin-top: 105px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     }
