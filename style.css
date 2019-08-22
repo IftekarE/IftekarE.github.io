@@ -87,19 +87,19 @@ hr3{
     left: 0%;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25.6px; 
-    margin-top: 31.2px;
+    margin-top: 21.2px;
     }
 .shoot1{
     position: absolute;
     left: 0%;
     margin-left: 25.6px;
-    margin-top: 64.2px;
+    margin-top: 54.2px;
     }
 .shoot2{
     position: absolute;
     left: 0%;
     margin-left: 535.2px;
-    margin-top: 64.2px;
+    margin-top: 54.2px;
     }  
 p.par2{
     color: rgb(215 , 215, 215);
@@ -126,6 +126,6 @@ div#d3{
     margin-left: 1045.8px;
     font-size: 25px;
     color: rgb(215 , 215, 215);
-    margin-top: 0px;
+    margin-top: -10px;
     font-family: 'Times New Roman', Times, serif;
     }
