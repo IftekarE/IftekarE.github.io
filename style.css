@@ -15,10 +15,15 @@ hr1{
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25.6px; 
     }
+.link1{
+    margin-left: 370.6px;
+    font-size: 25px;
+    color:rgb(240, 227, 175);
+    }
 p.par1{
     color: rgb(215 , 215, 215);
     font-size: 25px;
-    padding-top: 40px;
+    padding-top: 0px;
     font-family: 'Times New Roman', Times, serif;
     }
 .Quad1 {
@@ -45,6 +50,8 @@ div#d1{
     font-size: 25px;
     color: rgb(215 , 215, 215);
     font-family: 'Times New Roman', Times, serif;
+    margin-top: -15px;
+    margin-bottom: 15px;
     }
 
 hr2{
@@ -55,28 +62,34 @@ hr2{
     left: 0%;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25.6px; 
-    margin-top: 65.6px;
+    margin-top: -0.6px;
+    }
+.link2{
+    margin-left: 261.6px;
+    font-size: 25px;
+    color:rgb(240, 227, 175);
     }
 .cal1 {
     position: absolute;
     left: 0%;
     margin-left: 25.6px;
-    margin-top: 99.2px;
+    margin-top: 34.2px;
     }
 .cal2{
     position: absolute;
     left: 0%;
     margin-left: 535.2px;
-    margin-top: 99.2px;
+    margin-top: 34.2px;
     } 
 div#d2{
     background-color:rgb(12, 12, 12);
     margin-left: 1045.8px;
     font-size: 25px;
     color: rgb(215 , 215, 215);
-    margin-top: 105px;
+    margin-top: 9px;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
     }
 
 hr3{
@@ -87,19 +100,25 @@ hr3{
     left: 0%;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 25.6px; 
-    margin-top: 21.2px;
+    margin-top: 1.2px;
+    }
+.link3{
+    margin-left: 245.6px;
+    font-size: 25px;
+    color:rgb(240, 227, 175);
+    margin-top: 15px;
     }
 .shoot1{
     position: absolute;
     left: 0%;
     margin-left: 25.6px;
-    margin-top: 54.2px;
+    margin-top: 34.2px;
     }
 .shoot2{
     position: absolute;
     left: 0%;
     margin-left: 535.2px;
-    margin-top: 54.2px;
+    margin-top: 34.2px;
     }  
 p.par2{
     color: rgb(215 , 215, 215);
@@ -126,6 +145,6 @@ div#d3{
     margin-left: 1045.8px;
     font-size: 25px;
     color: rgb(215 , 215, 215);
-    margin-top: -10px;
+    margin-top: -55px;
     font-family: 'Times New Roman', Times, serif;
     }
