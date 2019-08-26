@@ -19,6 +19,7 @@ hr1{
     margin-left: 355.6px;
     font-size: 25px;
     color:rgb(240, 227, 175);
+    display: inline block;
     }
 p.par1{
     color: rgb(215 , 215, 215);
@@ -74,6 +75,7 @@ hr2{
     margin-left: 246.6px;
     font-size: 25px;
     color:rgb(240, 227, 175);
+    display: inline block;
     }
 .cal1 {
     position: absolute;
@@ -118,6 +120,7 @@ hr3{
     font-size: 25px;
     color:rgb(240, 227, 175);
     margin-top: 15px;
+    display: inline block;
     }
 .shoot1{
     position: absolute;
