@@ -16,7 +16,7 @@ hr1{
     font-family: 'Times New Roman', Times, serif;
     }
 .link1{
-    margin-left: 350.6px;
+    margin-left: 355.6px;
     font-size: 25px;
     color:rgb(240, 227, 175);
     }
@@ -56,7 +56,7 @@ div#d1{
 .Headline1{
     width: 500px;
     height: 35px;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: 15
     }
 
@@ -71,7 +71,7 @@ hr2{
     margin-left: 25.6px;
     }
 .link2{
-    margin-left: 241.6px;
+    margin-left: 246.6px;
     font-size: 25px;
     color:rgb(240, 227, 175);
     }
@@ -93,14 +93,14 @@ div#d2{
     font-size: 25px;
     color: rgb(215 , 215, 215);
     margin-top: 7px;
-    text-align: center;
+    text-align: justify;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 15px;
     }
 .Headline2{
     width: 500px;
     height: 35px;
-    margin-left: 20px;
+    margin-left: 15px;
     }
 
 hr3{
@@ -110,11 +110,11 @@ hr3{
     text-align: center;
     left: 0%;
     font-family: 'Times New Roman', Times, serif;
-    margin-top: 1.2px;
+    margin-top: -2.2px;
     margin-left: 25.6px;
     }
 .link3{
-    margin-left: 225.6px;
+    margin-left: 230.6px;
     font-size: 25px;
     color:rgb(240, 227, 175);
     margin-top: 15px;
@@ -123,18 +123,18 @@ hr3{
     position: absolute;
     left: 0%;
     margin-left: 25.6px;
-    margin-top: .2px;
+    margin-top: -1.8px;
     }
 .shoot2{
     position: absolute;
     left: 0%;
     margin-left: 535.2px;
-    margin-top: .2px;
+    margin-top: -1.8px;
     }  
 p.par2{
     color: rgb(215 , 215, 215);
     font-size: 25px;
-    padding-top: 40px;
+    padding-top: 33px;
     font-family: 'Times New Roman', Times, serif;
     }
 p.par3{
@@ -162,5 +162,5 @@ div#d3{
 .Headline3{
     width: 500px;
     height: 35px;
-    margin-left: 20px;
+    margin-left: 15px;
     }
